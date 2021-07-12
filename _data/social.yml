@@ -1,0 +1,6 @@
+- title: Email
+  url: mailto:comghana@jointree.co.kr
+  icon: fas fa-envelope
+- title: GitHub
+  url: https://github.com/dev-hana
+  icon: fab fa-github
